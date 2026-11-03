@@ -10,7 +10,7 @@ En sortie de ce module, vous serez capable de :
 - Contrôler la génération (température, top-k, top-p, échantillonnage)
 - Évaluer des sorties de LLM (ROUGE, LLM-as-a-judge)
 - Obtenir des sorties structurées (JSON validé par Pydantic)
-- Construire une application : RAG sur un document avec LangChain, ou agent SQL avec appel d'outils
+- Utiliser un LLM pour structurer des données et alimenter une base, ou pour classer des textes à partir de ses probabilités
 
 ## Exercices
 
